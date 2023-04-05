@@ -1,0 +1,15 @@
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.csproj.AssemblyReference.cache
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.AssemblyInfoInputs.cache
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.AssemblyInfo.cs
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\bin\Debug\net6.0\Lista_Tarefas.exe
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\bin\Debug\net6.0\Lista_Tarefas.deps.json
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\bin\Debug\net6.0\Lista_Tarefas.runtimeconfig.json
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\bin\Debug\net6.0\Lista_Tarefas.dll
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\bin\Debug\net6.0\Lista_Tarefas.pdb
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.dll
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\refint\Lista_Tarefas.dll
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.pdb
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\Lista_Tarefas.genruntimeconfig.cache
+C:\Users\202110852\source\repos\Lista_Tarefas\Lista_Tarefas\obj\Debug\net6.0\ref\Lista_Tarefas.dll
